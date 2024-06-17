@@ -199,7 +199,7 @@ span {
     border-radius: 2rem;
     text-align: center;
     border: .2rem solid var(--bg-color);
-    transition: .1s ease;
+    transition: 5s ease;
 
     
 }

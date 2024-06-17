@@ -116,7 +116,7 @@ span {
     font-size: 2rem;
     color: var(--main-bg-color);
     margin: 3rem 1.5rem 3rem 0;
-    transition: .5s ease;
+    transition: 5s ease;
 }
 
 .social-media a:hover {
